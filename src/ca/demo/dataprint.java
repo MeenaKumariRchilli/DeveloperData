@@ -5,6 +5,7 @@ public class dataprint {
 	public static void main(String[] args) {
     
 		System.out.println("data is ecport to github");
+		System.out.println("data is ecport1 to github");
 	}
 
 }
