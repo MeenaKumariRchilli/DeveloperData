@@ -7,7 +7,7 @@ public class dataprint {
 		System.out.println("data is ecport to github");
 		System.out.println("data is ecport1 to github");
 		System.out.println("data is edited");
-
+// data is to be pushed by 2 developer 
 	}
 
 }
