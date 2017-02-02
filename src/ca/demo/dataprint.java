@@ -9,6 +9,7 @@ public class dataprint {
 		System.out.println("data is edited");
 // data is to be pushed by 2 developer 
 		// daata is switched between projects
+		//data edited
 	}
 
 }
