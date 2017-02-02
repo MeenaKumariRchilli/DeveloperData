@@ -6,6 +6,8 @@ public class dataprint {
     
 		System.out.println("data is ecport to github");
 		System.out.println("data is ecport1 to github");
+		System.out.println("data is edited");
+
 	}
 
 }
